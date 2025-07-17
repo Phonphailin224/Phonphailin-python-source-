@@ -21,4 +21,3 @@ print("Age: ", age)
 print("Email:",email)
 print("Phone_number:",phone_number)
 print("Favorite Hobby:",hobby)
-s
