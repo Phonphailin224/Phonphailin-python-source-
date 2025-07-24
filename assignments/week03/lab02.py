@@ -33,4 +33,4 @@ if entered_pin == pin:
 
 
 else:
-    print("Invalid PIjN")
+    print("Invalid PIN")
